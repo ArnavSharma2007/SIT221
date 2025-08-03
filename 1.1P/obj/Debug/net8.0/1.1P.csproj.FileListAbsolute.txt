@@ -1,0 +1,14 @@
+C:\Users\ARNAV\Desktop\SEM-3\DSA\Tasksheets\1.1P\bin\Debug\net8.0\1.1P.exe
+C:\Users\ARNAV\Desktop\SEM-3\DSA\Tasksheets\1.1P\bin\Debug\net8.0\1.1P.deps.json
+C:\Users\ARNAV\Desktop\SEM-3\DSA\Tasksheets\1.1P\bin\Debug\net8.0\1.1P.runtimeconfig.json
+C:\Users\ARNAV\Desktop\SEM-3\DSA\Tasksheets\1.1P\bin\Debug\net8.0\1.1P.dll
+C:\Users\ARNAV\Desktop\SEM-3\DSA\Tasksheets\1.1P\bin\Debug\net8.0\1.1P.pdb
+C:\Users\ARNAV\Desktop\SEM-3\DSA\Tasksheets\1.1P\obj\Debug\net8.0\1.1P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARNAV\Desktop\SEM-3\DSA\Tasksheets\1.1P\obj\Debug\net8.0\1.1P.AssemblyInfoInputs.cache
+C:\Users\ARNAV\Desktop\SEM-3\DSA\Tasksheets\1.1P\obj\Debug\net8.0\1.1P.AssemblyInfo.cs
+C:\Users\ARNAV\Desktop\SEM-3\DSA\Tasksheets\1.1P\obj\Debug\net8.0\1.1P.csproj.CoreCompileInputs.cache
+C:\Users\ARNAV\Desktop\SEM-3\DSA\Tasksheets\1.1P\obj\Debug\net8.0\1.1P.dll
+C:\Users\ARNAV\Desktop\SEM-3\DSA\Tasksheets\1.1P\obj\Debug\net8.0\refint\1.1P.dll
+C:\Users\ARNAV\Desktop\SEM-3\DSA\Tasksheets\1.1P\obj\Debug\net8.0\1.1P.pdb
+C:\Users\ARNAV\Desktop\SEM-3\DSA\Tasksheets\1.1P\obj\Debug\net8.0\1.1P.genruntimeconfig.cache
+C:\Users\ARNAV\Desktop\SEM-3\DSA\Tasksheets\1.1P\obj\Debug\net8.0\ref\1.1P.dll
